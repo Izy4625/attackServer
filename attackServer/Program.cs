@@ -12,13 +12,6 @@ namespace attackServer
         static async Task Main(string[] args)
         {
 
-
-
-
-
-
-
-
             string TaskA = await  GetDataAAsync();
             string TaskB = await GetDataBAsync();
            
